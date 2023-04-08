@@ -1,0 +1,10 @@
+C:\Users\bench\source\repos\colorized\colorized\bin\Debug\colorized.exe.config
+C:\Users\bench\source\repos\colorized\colorized\bin\Debug\colorized.exe
+C:\Users\bench\source\repos\colorized\colorized\bin\Debug\colorized.pdb
+C:\Users\bench\source\repos\colorized\colorized\obj\Debug\colorized.csproj.AssemblyReference.cache
+C:\Users\bench\source\repos\colorized\colorized\obj\Debug\colorized.Form1.resources
+C:\Users\bench\source\repos\colorized\colorized\obj\Debug\colorized.Properties.Resources.resources
+C:\Users\bench\source\repos\colorized\colorized\obj\Debug\colorized.csproj.GenerateResource.cache
+C:\Users\bench\source\repos\colorized\colorized\obj\Debug\colorized.csproj.CoreCompileInputs.cache
+C:\Users\bench\source\repos\colorized\colorized\obj\Debug\colorized.exe
+C:\Users\bench\source\repos\colorized\colorized\obj\Debug\colorized.pdb
